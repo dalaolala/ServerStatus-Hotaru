@@ -17,6 +17,17 @@ Test v0.014：图片来源：Pixiv：72725286
 
 请见：https://www.cokemine.com/serverstatus-hotaru.html
 
+## 服务端安装
+```
+wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
+bash status.sh s
+```
+## 客户端安装
+```
+wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
+bash status.sh c
+```
+
 ## 修改方法
 
 配置文件：/usr/local/ServerStatus/server/config.json备份并自行添加Region
