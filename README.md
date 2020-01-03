@@ -28,6 +28,15 @@ wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/statu
 bash status.sh c
 ```
 
+## 服务端配置文件路径
+```
+/usr/local/ServerStatus/server/config.json
+```
+## 服务端web页面路径
+```
+/usr/local/ServerStatus/web
+```
+
 ## 修改方法
 
 配置文件：/usr/local/ServerStatus/server/config.json备份并自行添加Region
